@@ -1,4 +1,4 @@
-# HOSPITAL QUEUEING SYSTEM
+# HOSPITAL QUEUING SYSTEM
 
 This is a desktop application for windows that shows the implementation of the Priority Queue ADT (Abstract Data Type). 
 
